@@ -6,9 +6,13 @@ pylibmc cache backend for Django
     :alt: The PyPI package
     :target: https://pypi.python.org/pypi/dj-pylibmc
 
-.. image:: https://img.shields.io/travis/RegioHelden/dj-pylibmc.svg
-    :alt: TravisCI Build Status
-    :target: https://travis-ci.org/RegioHelden/dj-pylibmc
+.. image:: https://github.com/RegioHelden/dj-pylibmc/workflows/Build/badge.svg
+    :alt: Build Status
+    :target: https://github.com/RegioHelden/dj-pylibmc/actions
+
+.. image:: https://github.com/RegioHelden/dj-pylibmc/workflows/Build-Django-master/badge.svg
+    :alt: Build-Django-master Status
+    :target: https://github.com/RegioHelden/dj-pylibmc/actions
 
 .. Omit badges from docs
 
